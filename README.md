@@ -6,4 +6,4 @@ This is the alternate syntax definition that I use when hacking Julia, which is
 less complete, but much simpler, faster, and works with [rainbow
 parenthesis](https://github.com/kien/rainbow_parentheses.vim).
 
-
+This bundle contributes to [vim-polyglot](https://github.com/sheerun/vim-polyglot) language pack.
